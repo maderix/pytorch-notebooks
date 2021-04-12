@@ -12,5 +12,6 @@ There is some learning curve involved but since I've some experience with Numpy,
 Hope this repo proves useful to other individuals starting out on their journey in Pytorch. :)
 
 # Contents (so far)
-1. MNIST
-2. CIFAR
+1. MNIST with simple neural nets
+2. CIFAR10 with a simple Convolutional Neural Network(CNN)
+3. CIFAR10 with a RESidual Network from scratch(ResNet18)
